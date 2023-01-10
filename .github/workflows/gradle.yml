@@ -1,5 +1,5 @@
 name: Generate Jar
-on: [ push, pull_request ]
+on: [ push ]
 jobs:
   paperclip:
     runs-on: ubuntu-latest
